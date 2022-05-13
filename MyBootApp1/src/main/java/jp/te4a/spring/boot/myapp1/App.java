@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * Hello world!
  *
  */
- @Configuration
+@Configuration
 @EnableAutoConfiguration
 @ComponentScan
 
